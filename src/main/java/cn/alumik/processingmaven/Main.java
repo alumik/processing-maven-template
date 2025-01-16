@@ -1,11 +1,11 @@
-package cn.alumik.example;
+package cn.alumik.processingmaven;
 
 import processing.core.*;
 
-public class Example extends PApplet {
+public class Main extends PApplet {
 
     public static void main(String[] args) {
-        PApplet.main(Example.class);
+        PApplet.main(Main.class);
     }
 
     @Override
